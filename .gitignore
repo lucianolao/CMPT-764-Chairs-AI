@@ -1,0 +1,7 @@
+**/results/**/*.txt
+**/results/negative/
+**/results/positive/
+!/scorer/results/*.txt
+
+.DS_Store
+
